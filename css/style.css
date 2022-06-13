@@ -14,44 +14,21 @@
 }
 .btn-primary{
     background-color:#1e266d !important;
-    border-radius: 32px;
-    color: white;
-}
-.nav-link:hover{
-    color: #ff6c02 ;
 }
 .btn-solid-lg{
-    display: inline-block;
-    padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-    border-radius: 32px;
     background-color: #ff6c02;
-    color: #fff;
-    font-weight: 600;
-    font-size: 0.875rem;
     line-height: 0;
-    text-decoration: none;
     transition: all 0.2s;
 }
 .btn-outline-lg{
-    display: inline-block;
-    padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-    border-radius: 32px;
     border: 1px solid #ff6c02;
-    background-color: transparent;
     color: #ff6c02;
-    font-weight: 600;
-    font-size: 0.875rem;
     line-height: 0;
-    text-decoration: none;
     transition: all 0.2s;
 }
 #header-section{
     padding-top: 10.75rem !important;
     padding-bottom: 13rem !important;
-}
-.text-container h1{
-    line-height: 4rem;
-    /* padding-top: 3.2rem !important; */
 }
 #header-1{
     background-color: #f9f9f9;
@@ -63,30 +40,18 @@
     width: 50%;
     min-height:70vh;
     background-color: #f9f9f9;
-    border-radius: 10px;
 }
 .text-box p{
-    color: #515867;
     font: 400 1rem/1.625rem "Open Sans", sans-serif;
 }
 .form-input .form-control{
-    width: 100%;
-    border-radius: 32px;
-    color: #515867;
-    font-size: 0.875rem;
     line-height: 1.875rem;
     transition: all 0.2s;
-    -webkit-appearance: none;
 }
 .btn-solid-sm{
-    display: inline-block;
-    width: 100%;
     border: 1px solid #ff6c02;
     background-color: #ff6c02;
-    color: white !important;
-    cursor: pointer;
     transition: all 0.2s;
-    text-decoration: none;
 }
 .btn-solid-sm:hover{
     background-color:#f8f9fa ;
@@ -106,25 +71,18 @@
 }
 .card-icon{
     color: #ff6c02;
-    font-size: 2rem;
     line-height: 4.625rem;
 }
 .card{
     background-color: #040470 !important;
 }
 .card-icon-wrapper {
-    padding-left: 2rem;
     border-left: 1px solid #ff6c02;
-}
-.read-more{
-    text-decoration: none;
 }
 .card-icon {
     width: 74px;
     height: 74px;
-    border-radius: 50%;
     background-color: #3232a0;
-    text-align: center;
 }
 #introduction-section{
     min-height: 100vh;
@@ -139,20 +97,10 @@
 }
 #testimony-section .card{
     background-color: #fff !important;
-    border-radius: 20px;
 }
 #testimony-section .card-body{
     min-height: 30vh ;
 }
 .testimonail-image img{
-    border-radius: 50%;
     height: 100px;
-    width: 100px;
 }
-.testimonail-image{
-    display: flex;
-}
-
-
-
-
